@@ -1,5 +1,5 @@
 import React from 'react';
-import Pokecard from '.Pokecard';
+import Pokecard from './Pokecard';
 import './App.css';
 
 function App() {
